@@ -1,0 +1,6 @@
+Search Item	Quantity
+tv	3
+socks	5
+dvd	2
+toys	3
+iphone	1

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131474" started-at="2015-10-27T08:55:04Z" finished-at="2015-10-27T08:57:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131474" started-at="2015-10-27T08:55:04Z" finished-at="2015-10-27T08:57:16Z">
+      <class name="test.SearchAutomation">
+        <test-method status="PASS" signature="readInputFile()[pri:0, instance:test.SearchAutomation@74d1dc36]" name="readInputFile" is-config="true" duration-ms="25085" started-at="2015-10-27T01:55:04Z" finished-at="2015-10-27T01:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readInputFile -->
+        <test-method status="PASS" signature="walmartSignIn()[pri:0, instance:test.SearchAutomation@74d1dc36]" name="walmartSignIn" is-config="true" duration-ms="19892" started-at="2015-10-27T01:55:29Z" finished-at="2015-10-27T01:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- walmartSignIn -->
+        <test-method status="PASS" signature="searchItem()[pri:0, instance:test.SearchAutomation@74d1dc36]" name="searchItem" duration-ms="58500" started-at="2015-10-27T01:55:49Z" finished-at="2015-10-27T01:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="clearTheCart()[pri:0, instance:test.SearchAutomation@74d1dc36]" name="clearTheCart" is-config="true" duration-ms="27982" started-at="2015-10-27T01:56:48Z" finished-at="2015-10-27T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTheCart -->
+      </class> <!-- test.SearchAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
